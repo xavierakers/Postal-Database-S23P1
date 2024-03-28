@@ -1,0 +1,11 @@
+filename US.txt
+distance 24437; 70449Z
+distance 54935 03285
+county CastroV
+postal 35673G
+distance 47426 097307
+place Lewisto
+county Morro
+distance 58455U 71841
+postal 75241
+place CalhounX

@@ -1,0 +1,11 @@
+filename IT.txt
+distance 15062 44014x
+place Penna San Giovannis
+distance 46014s 06034
+postal 84046B
+county Sondrioo
+postal 57034
+distance 31036 13854
+place Lisciano Di Collot
+county Rom
+distance 030498 41046k

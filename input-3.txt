@@ -1,0 +1,11 @@
+filename CA.txt
+postal R3Bi
+distance R3Me T0A
+place Fabrevill
+distance S6K$ K1LY
+distance T5B V8Ri
+postal N3P
+distance H4B L9A
+county Maple Ridge
+county g
+place Smiths FallsL

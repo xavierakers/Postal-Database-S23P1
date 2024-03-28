@@ -1,0 +1,11 @@
+filename GB.txt
+place Catfort
+distance NG32 PA32
+postal TF6P
+county KentQ
+distance SO32 EH1Y
+postal FY4
+place Bicknacret
+county Cambridgeshir
+distance BS37R AB44
+distance WD6X BN2<
