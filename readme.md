@@ -47,7 +47,7 @@ longitude         : estimated longitude (wgs84)
 accuracy          : accuracy of lat/lng from 1=estimated, 4=geonameid, 6=centroid of addresses or shape
 
 
-Sample Input Command File
+# Sample Input Command File
 filename US.txt
 postal 24060
 postal 00000
@@ -61,7 +61,7 @@ postal IM7
 distance IM7 XYZ
 Below will be the corresponding output. Both positive and negative responses will be shown below.
 
-Output
+# Output
 Here’s what the output would look like for the given sample input file:
 
 filename US.txt
